@@ -133,7 +133,7 @@ It includes data cleaning, analysis, and visualization to extract valuable insig
 
 <br>
 
-## 🌐 WhatsApp Chat Analyzer Website
+## 🌐 SMS Spam Classifier Website
 
 You can access the WhatsApp Chat Analyzer through the following link:
 
