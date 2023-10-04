@@ -93,3 +93,43 @@ It includes data cleaning, analysis, and visualization to extract valuable insig
 
 ![WhatsApp Image 2023-10-04 at 11 33 35 PM](https://github.com/ishita-goyal-019/SMS-spam-classifier/assets/145800141/a9d55d6a-3691-435d-9df4-ddefe4fa0586)
 
+<br>
+
+## SMS Spam Classifier Tutorial
+
+![WhatsApp Image 2023-10-03 at 11 07 46 PM](https://github.com/ishita-goyal-019/SMS-spam-classifier/assets/145800141/0e2a2a83-2f86-4b3e-9402-b37e95379fe6)
+
+![WhatsApp Image 2023-10-03 at 11 27 16 PM](https://github.com/ishita-goyal-019/SMS-spam-classifier/assets/145800141/f3a32e86-7515-4f7f-bb13-05a838fc9b6a)
+
+![WhatsApp Image 2023-10-05 at 12 12 35 AM](https://github.com/ishita-goyal-019/SMS-spam-classifier/assets/145800141/845146ae-e13c-4537-9cfe-b2238b78b11f)
+
+<br>
+
+## 🚀 Challenges Faced
+
+- **Data Cleaning**: The project required thorough data cleaning to handle variations in chat formats, timestamps, and user messages.
+
+- **User-Friendly Interface**: Designing a simple and intuitive web interface for users to upload chat data and view insights presented a challenge.
+
+- **Data Visualization**: Creating informative and visually appealing charts and graphs to represent chat patterns and insights was a key challenge.
+
+<br>
+
+## 🔮 Future Scope
+
+- **Advanced Analysis**: Implement advanced natural language processing (NLP) techniques for sentiment analysis.
+
+- **User Segmentation**: Enhance user insights by segmenting users based on chat activity, preferences, and interactions.
+
+- **Enhanced Reporting**: Develop customizable report generation to provide users with detailed chat statistics and summaries.
+
+- **Integration**: Explore integration with cloud storage services for seamless chat data access.
+
+<br>
+
+## 🤝 Contributing
+
+- Contributions to this project are welcome! If you have suggestions, improvements, or additional features to propose, please feel free to fork the repository, make your changes, and submit a pull request.
+
+<br>
+
