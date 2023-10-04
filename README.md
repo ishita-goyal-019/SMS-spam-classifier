@@ -135,7 +135,7 @@ It includes data cleaning, analysis, and visualization to extract valuable insig
 
 ## 🌐 SMS Spam Classifier Website
 
-You can access the WhatsApp Chat Analyzer through the following link:
+You can access the spam detector through the following link:
 
 
 
